@@ -1,4 +1,4 @@
-#include "Fcatory.h"
+#include "Factory.h"
 void Factory::ManufactureProducts(Product _product, size_t size)
 {
 	bool is_produced = false;
